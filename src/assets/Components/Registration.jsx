@@ -24,6 +24,7 @@ function Registration() {
       userName: "",
       email: "",
       password: "",
+      role:"user"
     },
     validationSchema,
     onSubmit: async (values) => {

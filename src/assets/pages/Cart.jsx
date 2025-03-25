@@ -6,7 +6,7 @@ import Navbar from "../Home/Navbar";
 function Cart() {
   const [cartItems, setCartItems] = useState([]);
   const nav = useNavigate();
-  const userId = localStorage.getItem("user");
+  const userId = localStorage.getItem("userId ");
   console.log(userId)
   useEffect(() => {
     if (!userId) {

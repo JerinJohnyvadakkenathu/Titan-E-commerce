@@ -1,12 +1,21 @@
 {
   "users": [
     {
-      "id": "a42c",
+      "id": "35bd",
       "name": "Jerin Johny",
       "userName": "jerin@123",
       "email": "johnyjerin93@gmail.com",
       "password": "654321",
+      "role": "user",
       "cart": []
+    },
+    {
+      "id": "35bd",
+      "name": "Jerin Johny",
+      "userName": "Admin@123",
+      "email": "johnyjerin93@gmail.com",
+      "password": "Adminpass",
+      "role": "admin"
     }
   ],
   "product": [
