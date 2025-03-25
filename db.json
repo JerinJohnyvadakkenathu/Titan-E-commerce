@@ -1,0 +1,134 @@
+{
+  "users": [
+    {
+      "id": "a42c",
+      "name": "Jerin Johny",
+      "userName": "jerin@123",
+      "email": "johnyjerin93@gmail.com",
+      "password": "654321",
+      "cart": []
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "name": "Titan Edge Ceramic",
+      "category": "Men",
+      "price": 12995,
+      "discount": 10,
+      "image": "/images/titanedge.webp"
+    },
+    {
+      "id": "2",
+      "name": "Titan Octane Chronograph",
+      "category": "Men",
+      "price": 7495,
+      "discount": 15,
+      "image": "/images/titanoctane.webp"
+    },
+    {
+      "id": "3",
+      "name": "Titan Grandmaster Automatic",
+      "category": "Men",
+      "price": 25995,
+      "discount": 20,
+      "image": "/images/titangrand.webp"
+    },
+    {
+      "id": "4",
+      "name": "Titan Regalia Analog",
+      "category": "Men",
+      "price": 8995,
+      "discount": 12,
+      "image": "/images/titanreg.webp"
+    },
+    {
+      "id": "5",
+      "name": "Titan Neo Splash",
+      "category": "Men",
+      "price": 3995,
+      "discount": 5,
+      "image": "/images/titanneo.webp"
+    },
+    {
+      "id": "6",
+      "name": "Titan Maritime",
+      "category": "Men",
+      "price": 10495,
+      "discount": 10,
+      "image": "/images/titanmari.webp"
+    },
+    {
+      "id": "7",
+      "name": "Titan Workwear Quartz",
+      "category": "Men",
+      "price": 4995,
+      "discount": 8,
+      "image": "/images/titanwork.webp"
+    },
+    {
+      "id": "8",
+      "name": "Titan Karishma Black Dial",
+      "category": "Men",
+      "price": 2495,
+      "discount": 10,
+      "image": "/images/titankrish.webp"
+    },
+    {
+      "id": "9",
+      "name": "Titan Act Smart Hybrid",
+      "category": "Men",
+      "price": 9995,
+      "discount": 15,
+      "image": "/images/titansmart.webp"
+    },
+    {
+      "id": "10",
+      "name": "Titan Tycoon Multifunction",
+      "category": "Men",
+      "price": 11995,
+      "discount": 12,
+      "image": "/images/titantycoon.webp"
+    },
+    {
+      "id": "11",
+      "name": "Titan Raga Viva",
+      "category": "Women",
+      "price": 6995,
+      "discount": 10,
+      "image": "/images/titianraga.webp"
+    },
+    {
+      "id": "12",
+      "name": "Titan Nebula Gold",
+      "category": "Women",
+      "price": 35000,
+      "discount": 18,
+      "image": "/images/titannebula.webp"
+    },
+    {
+      "id": "13",
+      "name": "Titan Raga Moonlight",
+      "category": "Women",
+      "price": 11995,
+      "discount": 15,
+      "image": "/images/titanmoon.webp"
+    },
+    {
+      "id": "14",
+      "name": "Titan Rose Gold Mesh",
+      "category": "Women",
+      "price": 5995,
+      "discount": 10,
+      "image": "/images/titanrose.webp"
+    },
+    {
+      "id": "15",
+      "name": "Titan Bandhan Analog",
+      "category": "Women",
+      "price": 4995,
+      "discount": 8,
+      "image": "/images/titanbandhan.webp"
+    }
+  ]
+}
